@@ -9,6 +9,7 @@
 - Node.js
 - Svelte & MDsveX
 - Fauna
+- GraphQL
 
 #### 🤓 excited about
 
@@ -24,7 +25,6 @@
 
 - TypeScript
 - Rust
-- GraphQL
 
 #### 💆‍♀️ enjoys
 
