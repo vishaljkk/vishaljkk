@@ -1,36 +1,6 @@
-### Hello 👋
-
-<div style="display: grid; grid-template-columns: repeat(2, 50%); grid-template-rows: repeat(2, 1fr); grid-gap: 20px;">
-<div>
-
-#### 🛠 currently building with
-
-- React, Next.js
-- Node.js
-- Svelte & MDsveX
-- Fauna
-- GraphQL
-
-#### 🤓 excited about
-
-- Svelte
-- CSS Modules
-- Theming Solutions
-- GraphQL
-
-</div>
-<div>
-
-#### 👀 on my radar
-
-- TypeScript
-- Rust
-
-#### 💆‍♀️ enjoys
-
-- sharing knowledge
-- creating "bare bones" demos
-- exploring opinionated solutions
-
-</div>
-</div>
+<a href="https://github.com/josefaidt/josefaidt">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josefaidt&hide_border=true&layout=compact&title_color=58A6FF&text_color=8C949E&icon_color=89E153&bg_color=0D1117&hide_border=true" />
+</a>
+<a href="https://github.com/josefaidt/josefaidt">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=josefaidt&show_icons=true&count_private=true&hide=issues&title_color=58A6FF&text_color=8C949E&icon_color=89E153&bg_color=0D1117&hide_border=true" />
+</a>
